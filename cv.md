@@ -4,7 +4,7 @@
 
 * __Phone__: 89507656916
 * __E-mail__: tanushkasuper77@gmail.com
-* __Telegram:__ [tttkuz](@tttkuz)
+* __Telegram:__ [tttkuz](https://t.me/tttkuz)
 * __GitHub:__ [TttKuz](https://github.com/TttKuz)
 
 ## About me
