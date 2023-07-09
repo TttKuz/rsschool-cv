@@ -1,0 +1,88 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+  margin: 0 0 30px 0;
+  background-color: #763EAD;
+  color: #ffffff;
+  padding: 30px;
+}
+
+h1 {
+  margin: 15px 0 0 0;
+  font-size: 36px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 180px;
+}
+
+section {
+  padding: 30px;
+  margin: 10px 0 30px 0;
+  border: 3px solid #000000;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+label {
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    clear: both;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer img.rsschool {
+  display: block;
+  margin: 0 0 0 15px;
+  width: 70px;
+  height: 25px;
+}
+
+footer img.github {
+  display: block;
+  margin: 0 15px 0 0;
+  width: 25px;
+  height: 25px;
+}
